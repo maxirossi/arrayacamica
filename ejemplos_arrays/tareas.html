@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" href="css/styles.css" />
+<title>Ejemplos Arrays</title>
+</head>
+<body>
+<h1>Arrays!!!</h1>
+<label>Ingresar tarea</label>
+<input type="text" id="nombre-tarea"><br/>
+<a href="#" id="btn-agregar-tarea">Agregar Tarea</a>
+<div id="tareas-lista">Lista de tareas</div>
+</body>
+<!-- <script src="js/arrays.js"></script> -->
+<script src="js/tareas.js"></script> 
+<script>
+    let el = document.getElementById('btn-agregar-tarea');
+    el.addEventListener("click", agregarTarea);
+</script>
+</html>

@@ -1,0 +1,11 @@
+Arrays
+---------------------------------------
+Estructura
+Agregar elementos, Eliminar elementos
+Recorrer Arrays
+
+Extras
+---------------------------------------
+Interacción con el DOM
+Arrow Functions
+GIT
